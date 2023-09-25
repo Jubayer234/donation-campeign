@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "Picture": "https://i.ibb.co/F7Qqchg/Health.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Category_BG_Color": "#0052ff33",
+      "Card_BG_Color": "#0052ff26",
+      "Category_Text_Color": "#0052FF",
+      "Title_Color": "#0052FF",
+      "Description": "High-quality electronics product.",
+      "Price": "$299.99"
+    },
+    {
+      "id": 2,
+      "Picture": "https://i.ibb.co/3CRzVMG/Education.png",
+      "Title": "Good education",
+      "Category": "Education",
+      "Category_BG_Color": "#ff444a33",
+      "Card_BG_Color": "#ff444a26",
+      "Category_Text_Color": "#FF444A",
+      "Title_Color": "#FF444A",
+      "Description": "Fashionable clothing item.",
+      "Price": "$49.99"
+    },
+    {
+      "id": 3,
+      "Picture": "https://i.ibb.co/SXrR8cj/Clothing.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "Category_BG_Color": "#79c23f33",
+      "Card_BG_Color": "##79c23f26",
+      "Category_Text_Color": "#2c3e50",
+      "Title_Color": "#f39c12",
+      "Description": "Elegant home decor piece.",
+      "Price": "$79.99"
+    },
+    {
+      "id": 4,
+      "Picture": "https://i.ibb.co/dWSbbfs/Food.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Category_BG_Color": "#f8714733",
+      "Card_BG_Color": "#f8714726",
+      "Category_Text_Color": "#34495e",
+      "Title_Color": "#3498db",
+      "Description": "Best-selling novel.",
+      "Price": "$19.99"
+    },
+    {
+      "id": 5,
+      "Picture": "https://i.ibb.co/dWSbbfs/Food.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Category_BG_Color": "#f8714733",
+      "Card_BG_Color": "#f8714726",
+      "Category_Text_Color": "#F87147",
+      "Title_Color": "#F87147",
+      "Description": "Fun and interactive toy.",
+      "Price": "$39.99"
+    },
+    {
+      "id": 6,
+      "Picture": "https://i.ibb.co/SXrR8cj/Clothing.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothings",
+      "Category_BG_Color": "#79c23f33",
+      "Card_BG_Color": "#79c23f26",
+      "Category_Text_Color": "#79C23F",
+      "Title_Color": "#79C23F",
+      "Description": "Advanced tech gadget.",
+      "Price": "$599.99"
+    },
+    {
+      "id": 7,
+      "Picture": "https://i.ibb.co/3CRzVMG/Education.png",
+      "Title": "Good education",
+      "Category": "Education",
+      "Category_BG_Color": "#ff444a33",
+      "Card_BG_Color": "#ff444a26",
+      "Category_Text_Color": "#FF444A",
+      "Title_Color": "#FF444A",
+      "Description": "Stylish clothing choice.",
+      "Price": "$69.99"
+    },
+    {
+      "id": 8,
+      "Picture": "https://i.ibb.co/F7Qqchg/Health.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Category_BG_Color": "#0052ff33",
+      "Card_BG_Color": "#0052ff26",
+      "Category_Text_Color": "#0052FF",
+      "Title_Color": "#0052FF",
+      "Description": "Unique home decor item.",
+      "Price": "$89.99"
+    },
+    {
+      "id": 9,
+      "Picture": "https://i.ibb.co/F7Qqchg/Health.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Category_BG_Color": "#0052ff33",
+      "Card_BG_Color": "0052ff26",
+      "Category_Text_Color": "#0052FF",
+      "Title_Color": "#0052FF",
+      "Description": "Classic literature piece.",
+      "Price": "$24.99"
+    },
+    {
+      "id": 10,
+      "Picture": "https://i.ibb.co/3CRzVMG/Education.png",
+      "Title": "Good education",
+      "Category": "Education",
+      "Category_BG_Color": "#ff444a33",
+      "Card_BG_Color": "#ff444a26",
+      "Category_Text_Color": "#FF444A",
+      "Title_Color": "#FF444A",
+      "Description": "Educational toy for kids.",
+      "Price": "$29.99"
+    },
+    {
+      "id": 11,
+      "Picture": "https://i.ibb.co/SXrR8cj/Clothing.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "Category_BG_Color": "#79c23f33",
+      "Card_BG_Color": "#79c23f26",
+      "Category_Text_Color": "#79C23F",
+      "Title_Color": "#79C23F",
+      "Description": "Smart home device.",
+      "Price": "$129.99"
+    },
+    {
+      "id": 12,
+      "Picture": "https://i.ibb.co/dWSbbfs/Food.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Category_BG_Color": "#f8714733",
+      "Card_BG_Color": "##F87147",
+      "Category_Text_Color": "#F87147",
+      "Title_Color": "#27ae60",
+      "Description": "Better Food for Everyone",
+      "Price": "$34.99"
+    }
+  ]
+  
