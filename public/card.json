@@ -21,7 +21,7 @@
       "Category_Text_Color": "#FF444A",
       "Title_Color": "#FF444A",
       "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "Price": "$49.99"
+      "Price": "$120"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
       "Category_Text_Color": "#F87147",
       "Title_Color": "#F87147",
       "Description": "A well-balanced diet provides all of the: energy you need to keep active throughout the day. nutrients you need for growth and repair, helping you to stay strong and healthy and help to prevent diet-related illness, such as some cancers",
-      "Price": "$19.99"
+      "Price": "$219.99"
     },
     {
       "id": 5,
@@ -57,7 +57,7 @@
       "Category_Text_Color": "#F87147",
       "Title_Color": "#F87147",
       "Description": "A well-balanced diet provides all of the: energy you need to keep active throughout the day. nutrients you need for growth and repair, helping you to stay strong and healthy and help to prevent diet-related illness, such as some cancers",
-      "Price": "$39.99"
+      "Price": "$139.99"
     },
     {
       "id": 6,
@@ -69,7 +69,7 @@
       "Category_Text_Color": "#79C23F",
       "Title_Color": "#79C23F",
       "Description": " By donating your clothes instead, you can help fight landfill, reduce demand for resource-hungry new clothes, and have a real impact in making fashion more sustainable.",
-      "Price": "$599.99"
+      "Price": "$299.99"
     },
     {
       "id": 7,
@@ -81,7 +81,7 @@
       "Category_Text_Color": "#FF444A",
       "Title_Color": "#FF444A",
       "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "Price": "$69.99"
+      "Price": "$269.99"
     },
     {
       "id": 8,
@@ -93,7 +93,7 @@
       "Category_Text_Color": "#0052FF",
       "Title_Color": "#0052FF",
       "Description": "Water enables our bodies to carry out all of its functions in the day, it continually moves about and is lost in urine, sweat, tears, blood and the air we breathe. Children, in particular, need to make sure they re-hydrate, as water is the primary way they regulate their body temperature.",
-      "Price": "$89.99"
+      "Price": "$189.99"
     },
     {
       "id": 9,
@@ -105,7 +105,7 @@
       "Category_Text_Color": "#0052FF",
       "Title_Color": "#0052FF",
       "Description": "Water enables our bodies to carry out all of its functions in the day, it continually moves about and is lost in urine, sweat, tears, blood and the air we breathe. Children, in particular, need to make sure they re-hydrate, as water is the primary way they regulate their body temperature.",
-      "Price": "$24.99"
+      "Price": "$324.99"
     },
     {
       "id": 10,
@@ -117,7 +117,7 @@
       "Category_Text_Color": "#FF444A",
       "Title_Color": "#FF444A",
       "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "Price": "$29.99"
+      "Price": "$429.99"
     },
     {
       "id": 11,
@@ -141,7 +141,7 @@
       "Category_Text_Color": "#F87147",
       "Title_Color": "#F87147",
       "Description": "A well-balanced diet provides all of the: energy you need to keep active throughout the day. nutrients you need for growth and repair, helping you to stay strong and healthy and help to prevent diet-related illness, such as some cancers",
-      "Price": "$34.99"
+      "Price": "$234.99"
     }
   ]
   
